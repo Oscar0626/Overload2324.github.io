@@ -1126,6 +1126,7 @@ footer {
 }
 
 .footer-content-container {
+    margin-top: 20px;
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
